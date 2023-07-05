@@ -2,7 +2,6 @@
 *{
     font-family: var(--font-padrao);
     text-decoration: none;
-    
     margin: 0px
 }
 
@@ -40,13 +39,10 @@ h1 {
 }
 
 header {
-
-padding: 10px;
-margin: 20px;
+margin: auto;
+padding: 20px;
 box-shadow: 1px 3px 5px rgba(55, 53, 53, 0.432);
 text-align: center;
-margin: 0px;
-padding: 50px;
 background-image: linear-gradient(to bottom, var(--cor1), var(--cor3));
 
 }
@@ -100,7 +96,7 @@ main {
     background-color: var(--cor3);
     margin:auto;
     border-radius: 10px; 
-    padding: 25%;
+    padding: 19%;
     padding-top: 10px;
     max-width: 1000px;
     min-width: 300px;
