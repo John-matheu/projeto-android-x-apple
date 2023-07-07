@@ -96,10 +96,10 @@ main {
     background-color: var(--cor3);
     margin:auto;
     border-radius: 10px; 
-    padding: 19%;
+    padding: 15%;
     padding-top: 10px;
     max-width: 1000px;
-    min-width: 300px;
+    min-width: 100px;
 }
 article {
     border: 1px solid black;
